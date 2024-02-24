@@ -1,6 +1,7 @@
 Hello, I'm Smit 👋
 I'm a Computer Engineering Diploma student passionate about technology and eager to learn and grow in the field of computer engineering.
 
+\n
 🎓 Currently pursuing a Diploma in Computer Engineering
 💻 Enthusiastic about software development, computer networks, and hardware systems
 🌱 Always learning and exploring new technologies
